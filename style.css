@@ -265,21 +265,6 @@ li span {
 }
 /* Fin Polaroid-Gallery */
 
-/* Form */
-#form {
-  display: flex;
-  flex-direction: column;
-  width: 100vw;
-  align-items: center;
-  padding: 3%;
-  background-color: #fbeee6;
-}
-
-.form-style {
-  padding: 2%;
-}
-/* fin Form*/
-
 /* Gift */
 #gift {
   display: flex;
