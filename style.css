@@ -109,6 +109,7 @@ li span {
   height: 30vh;
   background-image: url(images/cortaderas.jpeg);
   background-size: cover;
+  background-position: center;
   border-radius: 36px;
 }
 
@@ -348,11 +349,8 @@ li span {
     font-size: 1em;
     justify-content: space-between;
     padding: 9%;
-    background-size: 88vmax;
   }
-}
-@media (overflow-block: scroll) {
-  p {
-    color: red;
+  .image-party {
+    width: 100%;
   }
 }
