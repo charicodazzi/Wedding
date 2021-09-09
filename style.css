@@ -105,7 +105,7 @@ li span {
 }
 
 .image-party {
-  width: 25vw;
+  width: 30vw;
   height: 30vh;
   background-image: url(images/cortaderas.jpeg);
   background-size: cover;
@@ -122,7 +122,7 @@ li span {
 /* Dresscode */
 #dresscode {
   width: 100vw;
-  height: 30vh;
+  min-height: 30vh;
   display: flex;
   flex-direction: column;
   align-items: center;
