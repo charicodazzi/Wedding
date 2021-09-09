@@ -41,6 +41,7 @@ p {
 /* Countdown */
 #countdown {
   width: 100vw;
+
   background-color: #fbeee6;
 }
 
@@ -352,5 +353,11 @@ li span {
   }
   .image-party {
     width: 100%;
+  }
+}
+
+@media screen and (max-width: 435px) {
+  li {
+    font-size: 0.7em;
   }
 }
