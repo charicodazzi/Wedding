@@ -33,7 +33,7 @@ p {
   font-size: 3em;
   text-shadow: white 0.1em 0.01em 0.1em;
 }
-.miluygus {
+.miluygus-title {
   font-size: 1.8em;
 }
 /* Fin foto ppal */
@@ -339,4 +339,20 @@ li span {
 
 .button-style:focus {
   outline: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .wedding-image {
+    flex-direction: column;
+    align-items: flex-start;
+    font-size: 1em;
+    justify-content: space-between;
+    padding: 9%;
+    background-size: 88vmax;
+  }
+}
+@media (overflow-block: scroll) {
+  p {
+    color: red;
+  }
 }
