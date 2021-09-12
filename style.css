@@ -275,6 +275,7 @@ li span {
   width: 100vw;
   padding: 2%;
   background-color: white;
+  text-align: center;
 }
 
 .image-cbu {
@@ -292,6 +293,7 @@ li span {
   align-items: center;
   padding: 3%;
   background-color: #fbeee6;
+  text-align: center;
 }
 
 /* Button-style*/
