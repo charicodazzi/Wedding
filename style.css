@@ -118,6 +118,10 @@ li span {
   margin-top: 5%;
 }
 
+.bold-text {
+  font-weight: bolder;
+}
+
 /* Fin Sites */
 
 /* Dresscode */
@@ -361,5 +365,9 @@ li span {
 @media screen and (max-width: 435px) {
   li {
     font-size: 0.7em;
+  }
+
+  #gift {
+    margin: auto;
   }
 }
